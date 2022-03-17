@@ -68,7 +68,7 @@ function generatePassword() {
         newPassword += passwordCharacters[Math.floor(Math.random() * passwordCharacters.length)];
       }
 
-      text = "Click OKAY to see your new password."
+      text = "Click OK to see your new password."
       window.alert(text);
       //return the new value of password out of the generatePassword() function so it is usable in the writePassword() function
       return password = newPassword;
