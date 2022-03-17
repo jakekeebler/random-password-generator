@@ -19,7 +19,7 @@ In order to download and run this project, you may:
 
 ## Usage
 
-After clicking on the generate password button, follow the prompts to have the website generate a password for you. Use the output in any way you would like, such as using it as a password for one your accounts on any website.
+After clicking on the generate password button, follow the prompts to have the website generate a password for you. Use the output in any way you would like, such as using it as a password for one of your accounts on any website.
 
 ---
 
