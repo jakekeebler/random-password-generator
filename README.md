@@ -25,9 +25,9 @@ After clicking on the generate password button, follow the prompts to have the w
 
 ## Credits
 
-HTML & CSS: Leif H. Hetland & Laura Cole
-Assignment Code/writePassword()/Event Listener JS code: Leif H. Hetland & Laura Cole
-Password Generation JS code: Jared Keebler
+- HTML & CSS: Leif H. Hetland & Laura Cole
+- Assignment Code/writePassword()/Event Listener JS code: Leif H. Hetland & Laura Cole
+- Password Generation JS code: Jared Keebler
 
 ---
 
