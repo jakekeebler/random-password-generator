@@ -4,7 +4,7 @@
 
 ## Description
 
-This website takes user input to create a random password for those who have trouble coming up witha  apssword of their own. Try it out!
+This website takes user input to create a random password for those who have trouble coming up with a password of their own. Try it out!
 
 ---
 
